@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tomi43292&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi43292&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tomi43292&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=1800"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi43292&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <br>
@@ -63,7 +63,7 @@ High-throughput API for medical triage, integrating **RAG** for precise clinical
 
 ### 📫 Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/tomas-gonzalez-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/tomasdanielgonzalez/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tomi150301@gmail.com">
