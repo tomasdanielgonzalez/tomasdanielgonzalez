@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomi43292&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomi43292&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomasdanielgonzalez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomasdanielgonzalez&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
@@ -47,15 +47,15 @@
 
 ### 🚀 Highlighted Projects
 
-#### 🐝 [Coadelpa System](https://github.com/tomi43292/coadelpa-project)
+#### 🐝 [Coadelpa System](https://github.com/tomasdanielgonzalez/coadelpa-project)
 Digital transformation for an agro-export company. I migrated 6 years of legacy data to a centralized **Django/PostgreSQL** architecture using **Hexagonal Architecture**.
 - **Impact:** 100% reduction in manual drum allocation errors using **Google OR-Tools**.
 
-#### 🤖 [Autonomous AI Agent](https://github.com/tomi43292/agente-ia-youtube)
+#### 🤖 [Autonomous AI Agent](https://github.com/tomasdanielgonzalez/agente-ia-youtube)
 Multi-agent system built with **LangGraph** for automated video content analysis and cyclic workflows.
 - **Impact:** Optimized large-scale data processing with resilient state persistence.
 
-#### 🏥 [Clinical AI Orchestrator](https://github.com/tomi43292/clinical-ai-orchestrator)
+#### 🏥 [Clinical AI Orchestrator](https://github.com/tomasdanielgonzalez/clinical-ai-orchestrator)
 High-throughput API for medical triage, integrating **RAG** for precise clinical history queries.
 - **Focus:** Data privacy and strict validation using **Pydantic**.
 
